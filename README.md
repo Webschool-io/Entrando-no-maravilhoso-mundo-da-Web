@@ -1,5 +1,5 @@
 # Entrando-no-maravilhoso-mundo-da-Web
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo_qukRm8TYT1cj44bCWb0mhYKVEVJEgdQU6On52WyEYB_tQd2)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo_qukRm8TYT1cj44bCWb0mhYKVEVJEgdQU6On52WyEYB_tQd2)<br>
 Esse conteúdo tem como foco ensinar aos novatos da área como dar os primeiros passos no desenvolvimento web. No curso será mostrada uma introdução de Protocolos,combinação de cores e fontes, HTML, CSS, Javascript, SEO, PHP e Banco de dados.  
 
 ##### O que faremos ao longo do curso?
