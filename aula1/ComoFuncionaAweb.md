@@ -2,7 +2,7 @@
 
  Já falamos sobre a história da web, quem a criou e qual foi o motivo que levou a criação. Mas agora chegou a hora de entendermos como funciona esse mundo.
  <br>
- !(https://image.slidesharecdn.com/camadasdofrontend-160516183426/95/camadas-do-frontend-8-638.jpg?cb=1463423693)
+ ![](https://image.slidesharecdn.com/camadasdofrontend-160516183426/95/camadas-do-frontend-8-638.jpg?cb=1463423693)
  <br>
 
 #### Sim temos uma organização na web!
