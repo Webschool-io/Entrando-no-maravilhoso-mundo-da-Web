@@ -20,7 +20,7 @@
  
 #### Indo um pouquinho mais adiante, mas só um pouquinho o resto depois nos apronfundamos mais 
 <br>
- ![](https://img1.ibxk.com.br/materias/8122/32584.jpg?w=700)
+ ![] (https://img1.ibxk.com.br/materias/8122/32584.jpg?w=700)
 <br>
 Já citei as camadas, mas só elas ainda não fazem o serviço sem as ferramentas certas! Abaixo as ferramentas que são usadas para poder navegar na web sem nenhum problema.
 
