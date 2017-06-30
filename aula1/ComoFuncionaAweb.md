@@ -2,7 +2,7 @@
 
  Já falamos sobre a história da web, quem a criou e qual foi o motivo que levou a criação. Mas agora chegou a hora de entendermos como funciona esse mundo.
  <br>
- ![](https://image.slidesharecdn.com/camadasdofrontend-160516183426/95/camadas-do-frontend-8-638.jpg?cb=1463423693)
+ ![Front e Back-end](https://image.slidesharecdn.com/camadasdofrontend-160516183426/95/camadas-do-frontend-8-638.jpg?cb=1463423693)
  <br>
 
 #### Sim temos uma organização na web!
@@ -20,7 +20,7 @@
  
 #### Indo um pouquinho mais adiante, mas só um pouquinho o resto depois nos apronfundamos mais 
 <br>
- ![](http://www.dsc.ufcg.edu.br/~jacques/cursos/pr/html/req/mc5-9.gif)
+ ![Computadores em  rede](http://www.dsc.ufcg.edu.br/~jacques/cursos/pr/html/req/mc5-9.gif)
 <br>
 Já citei as camadas, mas só elas ainda não fazem o serviço sem as ferramentas certas! Abaixo as ferramentas que são usadas para poder navegar na web sem nenhum problema.
 
