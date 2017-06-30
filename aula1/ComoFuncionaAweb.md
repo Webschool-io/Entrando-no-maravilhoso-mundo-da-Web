@@ -7,7 +7,7 @@
 
 #### Sim temos uma organização na web!
 
- Na web temos camadas Client, Server Front-end e Brack-end, confira abaixo uma explicação dessas camadas.
+ Na web temos as seguintes camadas Client, Server Front-end e Brack-end, confira abaixo uma explicação dessas camadas.
  
  - Cliente: 
  São os usuários simples que se conectam à intenert com uma rede de internet e acessam páginas web pelo navegador do tipo Chrome,Firefox, Opera etc.. 
